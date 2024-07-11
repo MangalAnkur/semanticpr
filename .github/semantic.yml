@@ -4,3 +4,4 @@ types:
   - ankur
 enabled: true
 titleAndCommits: true
+anyCommit: true
